@@ -1,0 +1,198 @@
+*, html, body{ margin: 0; padding: 0;}
+.vasya{
+    width: 130px;
+    height: 100px;
+    background: #9574b4;
+    margin-left: 50px;
+    padding-top: 1px;
+    border-radius: 0%;
+}
+.petya{
+    width: 130px;
+    height: 101px;
+    background: #9574b4;
+    float: right;
+    margin-right: 1350px;
+    
+}
+.ghost{
+    height: 75px;
+    background:#f5ba20;
+    margin: 10px;
+}
+.devil{
+    height: 75px;
+    background:#f5ba20;
+    margin: 20px;
+}
+.smit{
+    width: 610px;
+    height: 400px;
+    background: #9574b4;
+}
+.superman{
+    width: 120px;
+    height: 110px;
+    background:#f5ba20;
+    float: left;
+    margin: 95px 125px
+}
+.superman2{
+    width: 120px;
+    height: 110px;
+    background:#f5ba20;
+    float: left;
+    margin-top: 95px
+}
+.redstone{
+    width: 40px;
+    height: 60px;
+    background: black;
+    float: right;
+    margin-top:  50px
+}
+.redstone2{
+    width: 40px;
+    height: 60px;
+    background: black;
+    float: left;
+    margin-top:  50px
+}
+.survio{
+    width: 150px;
+    height: 60px;
+    background: #fdc580;
+    float: right;
+    margin: -75px 223px;
+}
+.frick{
+    width: 30px;
+    height: 40px;
+    background: #e73896;
+    float: right;
+    margin: 20px
+}
+.frick2{
+    width: 30px;
+    height: 40px;
+    background: #e73896;
+    float: left;
+    margin: 20px;
+}
+.googleh{
+    width: 360px;
+    height: 60px;
+    background: red;
+    float: right;
+    margin-right: 120px
+}
+.googlehblack{
+    width: 30px;
+    height: 30px;
+    background: black;
+    border-radius: 0%;
+}
+.googlehblack{
+   width: 30px;
+    height: 30px;
+    background: black;
+    float: left;
+    margin-left: 30px;
+    
+}
+.googlehwhite{
+     width: 30px;
+    height: 30px;
+    background: white;
+    float: right;
+    margin-right: 30px;
+}
+.sops{
+     width: 200px;
+    height: 40px;
+    background: #9574b4;
+    float: right;
+    margin: 40px 200px;
+}
+.groys{
+     width: 200px;
+    height: 20px;
+    background: #f5ba20;
+    float: right;
+    margin: 10px 0;
+}
+.luys{
+ width: 400px;
+ height: 450px;
+background: #9574b4;
+    float: left;
+    margin: -40px 107px;
+    border-radius: 20px;
+}
+.riths{
+    width: 70px;
+    height: 100px;
+    background: #9574b4;
+    float: left;
+    margin: 50px -70px 
+}
+.riths2{
+    width: 70px;
+    height: 100px;
+    background: #9574b4;
+    float: right;
+    margin: 50px -70px; 
+}
+.kloyn{
+    width: 15px;
+    height: 100px;
+    background: black;
+    float: left;
+    margin-left: -10px;
+    border-radius: 20px 0px 0px 20px
+}
+.kloyn2{
+    width: 15px;
+    height: 100px;
+    background: black;
+    float: right;
+    margin-right: -10px;
+    border-radius: 0px 20px 20px 0px;
+}
+.moodsa{
+   width: 100px;
+    height: 70px;
+    background: #9574b4;
+    float: left;
+    margin: 450px 0px 0 75px
+}
+.moodsa2{
+   width: 100px;
+    height: 70px;
+    background: #9574b4;
+    float: left;
+    margin: 450px 0px 0 65px;
+}
+.kloyn3{ 
+    width: 100px;
+    height: 15px;
+    background: black;
+    float: left;
+ margin-top: 70px;
+    border-radius: 0px 0px 10px 10px;
+}
+.kloyn4 {
+   width: 100px;
+    height: 15px;
+    background: black;
+    float: left;
+ margin-top: 70px;
+    border-radius: 0px 0px 10px 10px;
+}
+.furio{
+    width: 250px;
+    height: 250px;
+    background: #e73896;
+    margin: 130px 70px;
+    border-radius: 200px
+}
